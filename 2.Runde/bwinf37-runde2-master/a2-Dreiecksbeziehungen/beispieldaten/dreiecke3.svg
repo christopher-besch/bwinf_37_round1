@@ -1,0 +1,19 @@
+<svg version="1.1" viewBox="0 0 820 620" xmlns="http://www.w3.org/2000/svg">
+  <g transform="scale(1 -1)">
+    <g transform="translate(0 -600)" fill="#ffcc99">
+      <line id="x" x1="0" x2="820" y1="0" y2="0" stroke="#000000"/>
+      <polygon id="D1" points="0 0 64 0 0 190"/>
+      <polygon id="D2" points="34 110 189 0 51 220"/>
+      <polygon id="D3" points="215 0 214 160 159 172"/>
+      <polygon id="D4" points="277 266 232 0 329 211"/>
+      <polygon id="D5" points="270 0 335 190 335 0"/>
+      <polygon id="D6" points="341 118 538 159 499 225"/>
+      <polygon id="D7" points="451 0 377 112 483 56"/>
+      <polygon id="D8" points="479 14 541 0 554 68"/>
+      <polygon id="D9" points="580 0 586 155 656 240"/>
+      <polygon id="D10" points="673 102 591 11 655 0"/>
+      <polygon id="D11" points="680 0 745 0 679 207"/>
+      <polygon id="D12" points="776 294 791 0 727 190"/>
+   </g>
+  </g>
+</svg>

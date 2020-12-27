@@ -1,0 +1,44 @@
+<svg version="1.1" viewBox="0 0 820 620" xmlns="http://www.w3.org/2000/svg">
+  <g transform="scale(1 -1)">
+    <g transform="translate(0 -600)" fill="#ffcc99">
+      <line id="x" x1="0" x2="820" y1="0" y2="0" stroke="#000000"/>
+      <polygon id="D1" points="450 172 465 64 476 121"/>
+      <polygon id="D2" points="0 160 39 61 76 124"/>
+      <polygon id="D3" points="122 155 153 71 169 150"/>
+      <polygon id="D4" points="574 277 636 281 622 383"/>
+      <polygon id="D5" points="364 106 411 97 441 155"/>
+      <polygon id="D6" points="605 172 654 139 615 229"/>
+      <polygon id="D7" points="708 64 749 91 717 175"/>
+      <polygon id="D8" points="274 313 285 295 302 346"/>
+      <polygon id="D9" points="6 221 60 250 7 296"/>
+      <polygon id="D10" points="374 217 398 172 407 277"/>
+      <polygon id="D11" points="676 289 657 373 640 322"/>
+      <polygon id="D12" points="333 59 365 128 312 148"/>
+      <polygon id="D13" points="497 285 522 211 558 289"/>
+      <polygon id="D14" points="100 0 170 20 120 70"/>
+      <polygon id="D15" points="337 151 373 140 348 214"/>
+      <polygon id="D16" points="96 61 104 154 80 165"/>
+      <polygon id="D17" points="271 142 297 209 279 236"/>
+      <polygon id="D18" points="48 307 33 406 6 340"/>
+      <polygon id="D19" points="504 115 530 154 489 205"/>
+      <polygon id="D20" points="668 46 666 131 605 122"/>
+      <polygon id="D21" points="276 259 336 253 370 321"/>
+      <polygon id="D22" points="224 295 158 313 171 232"/>
+      <polygon id="D23" points="699 271 743 323 703 376"/>
+      <polygon id="D24" points="93 223 136 331 86 334"/>
+      <polygon id="D25" points="753 251 770 273 767 332"/>
+      <polygon id="D26" points="298 114 335 24 260 42"/>
+      <polygon id="D27" points="792 178 766 213 750 191"/>
+      <polygon id="D28" points="243 244 254 273 240 303"/>
+      <polygon id="D29" points="439 273 467 204 467 316"/>
+      <polygon id="D30" points="68 201 97 163 80 232"/>
+      <polygon id="D31" points="549 148 584 151 552 225"/>
+      <polygon id="D32" points="564 131 544 63 621 79"/>
+      <polygon id="D33" points="464 366 403 377 418 313"/>
+      <polygon id="D34" points="240 212 213 10 249 89"/>
+      <polygon id="D35" points="729 192 714 240 663 184"/>
+      <polygon id="D36" points="171 172 188 213 116 223"/>
+      <polygon id="D37" points="57 334 70 288 69 408"/>
+    </g>
+  </g>
+</svg>

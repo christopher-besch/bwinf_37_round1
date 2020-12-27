@@ -1,0 +1,21 @@
+<svg version="1.1" viewBox="0 0 1024 768" xmlns="http://www.w3.org/2000/svg">
+  <g transform="scale(1 -1)">
+    <g transform="translate(0 -768)">
+	    <line id="y" x1="0" x2="0" y1="0" y2="768" fill="none" stroke="#212121" stroke-width="3"/>
+      <polygon id="P1" points="400 185 650 185 650 255 400 255" fill="#6B6B6B" stroke="#212121" stroke-width="2"/>
+      <polygon id="P2" points="497 10 598 19 604 102 549 165 447 141" fill="#6B6B6B" stroke="#212121" stroke-width="2"/>
+      <polygon id="P3" points="320 165 380 165 380 285 510 285 510 305 420 305 320 305" fill="#6B6B6B" stroke="#212121" stroke-width="2"/>
+      <polygon id="P4" points="300 55 360 45 380 135 320 145" fill="#6B6B6B" stroke="#212121" stroke-width="2"/>
+      <polygon id="P5" points="200 35 280 35 280 215 200 215" fill="#6B6B6B" stroke="#212121" stroke-width="2"/>
+      <polygon id="P6" points="170 215 300 265 300 325 180 305 150 245" fill="#6B6B6B" stroke="#212121" stroke-width="2"/>
+      <polygon id="P7" points="90 35 130 95 170 55 180 155 120 195 70 135" fill="#6B6B6B" stroke="#212121" stroke-width="2"/>
+      <polygon id="P8" points="400 125 430 145 410 175 380 155" fill="#6B6B6B" stroke="#212121" stroke-width="2"/>
+      <polygon id="P9" points="90 225 140 225 130 265 90 285" fill="#6B6B6B" stroke="#212121" stroke-width="2"/>
+      <polygon id="P10" points="540 280 541 280 800 280 800 400 540 400" fill="#6B6B6B" stroke="#212121" stroke-width="2"/>
+      <polygon id="P11" points="380 340 381 340 520 340 460 380 540 440 720 460 420 460 140 440 140 300 280 380" fill="#6B6B6B" stroke="#212121" stroke-width="2"/>
+	    <polygon id="P12" points="80 300 81 300 140 280 120 360" fill="#6B6B6B" stroke="#212121" stroke-width="2"/>
+      <circle id="L" cx="621" cy="162" r="10" fill="#F42121" stroke="#000080" stroke-width="1"/>
+      <polyline id="R" points="621 162" fill="none" stroke="#000080" stroke-width="4"/>
+	  </g>
+  </g>
+</svg>

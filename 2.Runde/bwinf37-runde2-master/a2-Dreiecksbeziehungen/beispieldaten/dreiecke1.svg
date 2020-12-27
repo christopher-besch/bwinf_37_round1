@@ -1,0 +1,12 @@
+<svg version="1.1" viewBox="0 0 820 620" xmlns="http://www.w3.org/2000/svg">
+  <g transform="scale(1 -1)">
+    <g transform="translate(0 -600)" fill="#ffcc99">
+      <line id="x" x1="0" x2="820" y1="0" y2="0" stroke="#000000"/>
+      <polygon id="D1" points="0 0 138 37 37 138"/>
+      <polygon id="D2" points="135 0 273 37 172 138"/>
+      <polygon id="D3" points="270 0 408 37 307 138"/>
+      <polygon id="D4" points="405 0 543 37 442 138"/>
+      <polygon id="D5" points="540 0 678 37 577 138"/>
+    </g>
+  </g>
+</svg>

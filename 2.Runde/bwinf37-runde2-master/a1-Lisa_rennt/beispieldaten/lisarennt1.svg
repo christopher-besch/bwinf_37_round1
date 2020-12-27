@@ -1,0 +1,10 @@
+<svg version="1.1" viewBox="0 0 1024 768" xmlns="http://www.w3.org/2000/svg">
+  <g transform="scale(1 -1)">
+    <g transform="translate(0 -768)">
+	    <line id="y" x1="0" x2="0" y1="0" y2="768" fill="none" stroke="#212121" stroke-width="3"/>
+      <polygon id="P" points="535 410 610 70 460 70" fill="#6B6B6B" stroke="#212121" stroke-width="2"/>
+      <circle id="L" cx="633" cy="189" r="10" fill="#F42121" stroke="#000080" stroke-width="1"/>
+      <polyline id="R" points="633 189" fill="none" stroke="#000080" stroke-width="4"/>
+	  </g>
+  </g>
+</svg>
